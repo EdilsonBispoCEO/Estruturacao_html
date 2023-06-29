@@ -1,0 +1,29 @@
+
+body {
+    background: url(img/gatinho.jpg);
+    background-size: cover;
+    margin: 0;
+    
+}
+
+.menu-principal ul {
+   list-style: none;
+   background-color: #ffffff2b;
+   margin-top: 0%;
+   text-align: end;
+   font-size: 50px;
+}
+
+.menu-principal ul li {
+    display: inline-flex;
+}
+
+.menu-principal ul li a:hover {
+    background:  rgb(206, 206, 206);
+    color: black;
+}
+
+.menu-principal ul li .link-ativo {
+    background-color:black;
+}
+
