@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: url(gatinho.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+table {
+    width: 40%;
+    border-collapse: collapse;
+    
+}
